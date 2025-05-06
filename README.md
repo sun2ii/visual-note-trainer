@@ -1,4 +1,7 @@
 # Note Trainer
+<img width="748" alt="Screenshot 2025-05-05 at 8 42 06 PM" src="https://github.com/user-attachments/assets/866136ff-5eb7-4bb2-bc6f-c43ff22c0264" />
+<img width="754" alt="Screenshot 2025-05-05 at 8 42 13 PM" src="https://github.com/user-attachments/assets/fa287c8d-3a3f-45f9-a7eb-e89f8943b188" />
+![Uploading Screenshot 2025-05-05 at 8.42.20 PM.png…]()
 
 A web application to practice identifying notes on the musical staff in both treble and bass clefs.
 
